@@ -1,6 +1,7 @@
 # Livro de Receitas :cake:
 
-Olá1 Bem vindo ao nosso livro de receitas
+Olá! Bem vindo ao nosso livro de receitas veganas
 
-- Receitas de Strogonoff de Flango Vegano
+- Strogonoff de Flango
+- Foccacia para Famintos
 
